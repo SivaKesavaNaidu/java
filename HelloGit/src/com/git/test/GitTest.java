@@ -7,6 +7,8 @@ public class GitTest {
 		System.out.println("We are in Git");
 		System.out.println("Git Repo");
 		System.out.println("Hi");
+		int[] a = new int[3];
+		System.out.println(a.length);
 	}
 
 }
