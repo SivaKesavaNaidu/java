@@ -1,0 +1,13 @@
+package com.git.java;
+
+public class JavaClass {
+
+	public static void main(String[] args) {
+		System.out.println("Hii Git");
+		System.out.println("Hii Git");
+		System.out.println("Hii Git");
+		System.out.println("Hii Git");
+		System.out.println("Hii Git");
+	}
+
+}
